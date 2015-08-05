@@ -1,0 +1,13 @@
+/* Empty. Add your own CSS if you like */
+.hide {
+  display:none;
+}
+.aligner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aligner-item {
+  max-width: 50%;
+}
